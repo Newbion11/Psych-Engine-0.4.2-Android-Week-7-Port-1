@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="OG_FLIP_ASSETS.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="OGFlip Idle0000" x="10" y="10" width="592" height="560"/>
+	<SubTexture name="OGFlip Idle0001" x="10" y="10" width="592" height="560"/>
+	<SubTexture name="OGFlip Idle0002" x="612" y="10" width="592" height="560"/>
+	<SubTexture name="OGFlip Idle0003" x="612" y="10" width="592" height="560"/>
+	<SubTexture name="OGFlip Idle0004" x="1214" y="10" width="592" height="560"/>
+	<SubTexture name="OGFlip Idle0005" x="1214" y="10" width="592" height="560"/>
+	<SubTexture name="OGFlip Idle0006" x="1816" y="10" width="592" height="560"/>
+	<SubTexture name="OGFlip Idle0007" x="1816" y="10" width="592" height="560"/>
+	<SubTexture name="OGFlip Idle0008" x="2418" y="10" width="592" height="560"/>
+	<SubTexture name="OGFlip Idle0009" x="2418" y="10" width="592" height="560"/>
+	<SubTexture name="OGFlip Idle0010" x="3020" y="10" width="592" height="560"/>
+	<SubTexture name="OGFlip Idle0011" x="3020" y="10" width="592" height="560"/>
+	<SubTexture name="OGFlip Idle0012" x="3020" y="10" width="592" height="560"/>
+	<SubTexture name="OGFlip Idle0013" x="3020" y="10" width="592" height="560"/>
+	<SubTexture name="OGFlip M DOWN0000" x="10" y="580" width="604" height="506"/>
+	<SubTexture name="OGFlip M DOWN0001" x="10" y="580" width="604" height="506"/>
+	<SubTexture name="OGFlip M DOWN0002" x="624" y="580" width="604" height="506"/>
+	<SubTexture name="OGFlip M DOWN0003" x="1238" y="580" width="604" height="506"/>
+	<SubTexture name="OGFlip M DOWN0004" x="1238" y="580" width="604" height="506"/>
+	<SubTexture name="OGFlip M DOWN0005" x="1238" y="580" width="604" height="506"/>
+	<SubTexture name="OGFlip M DOWN0006" x="1238" y="580" width="604" height="506"/>
+	<SubTexture name="OGFlip M DOWN0007" x="1238" y="580" width="604" height="506"/>
+	<SubTexture name="OGFlip M DOWN0008" x="1238" y="580" width="604" height="506"/>
+	<SubTexture name="OGFlip M DOWN0009" x="1238" y="580" width="604" height="506"/>
+	<SubTexture name="OGFlip M DOWN0010" x="1238" y="580" width="604" height="506"/>
+	<SubTexture name="OGFlip M DOWN0011" x="1238" y="580" width="604" height="506"/>
+	<SubTexture name="OGFlip M DOWN0012" x="1238" y="580" width="604" height="506"/>
+	<SubTexture name="OGFlip M DOWN0013" x="1238" y="580" width="604" height="506"/>
+	<SubTexture name="OGFlip M LEFT0000" x="1852" y="580" width="498" height="575"/>
+	<SubTexture name="OGFlip M LEFT0001" x="1852" y="580" width="498" height="575"/>
+	<SubTexture name="OGFlip M LEFT0002" x="2360" y="580" width="498" height="575"/>
+	<SubTexture name="OGFlip M LEFT0003" x="2868" y="580" width="498" height="575"/>
+	<SubTexture name="OGFlip M LEFT0004" x="2868" y="580" width="498" height="575"/>
+	<SubTexture name="OGFlip M LEFT0005" x="2868" y="580" width="498" height="575"/>
+	<SubTexture name="OGFlip M LEFT0006" x="2868" y="580" width="498" height="575"/>
+	<SubTexture name="OGFlip M LEFT0007" x="2868" y="580" width="498" height="575"/>
+	<SubTexture name="OGFlip M LEFT0008" x="2868" y="580" width="498" height="575"/>
+	<SubTexture name="OGFlip M LEFT0009" x="2868" y="580" width="498" height="575"/>
+	<SubTexture name="OGFlip M LEFT0010" x="2868" y="580" width="498" height="575"/>
+	<SubTexture name="OGFlip M LEFT0011" x="2868" y="580" width="498" height="575"/>
+	<SubTexture name="OGFlip M LEFT0012" x="2868" y="580" width="498" height="575"/>
+	<SubTexture name="OGFlip M LEFT0013" x="2868" y="580" width="498" height="575"/>
+	<SubTexture name="OGFlip M RIGHT0000" x="3376" y="580" width="542" height="547"/>
+	<SubTexture name="OGFlip M RIGHT0001" x="3376" y="580" width="542" height="547"/>
+	<SubTexture name="OGFlip M RIGHT0002" x="10" y="1165" width="542" height="547"/>
+	<SubTexture name="OGFlip M RIGHT0003" x="562" y="1165" width="542" height="547"/>
+	<SubTexture name="OGFlip M RIGHT0004" x="562" y="1165" width="542" height="547"/>
+	<SubTexture name="OGFlip M RIGHT0005" x="562" y="1165" width="542" height="547"/>
+	<SubTexture name="OGFlip M RIGHT0006" x="562" y="1165" width="542" height="547"/>
+	<SubTexture name="OGFlip M RIGHT0007" x="562" y="1165" width="542" height="547"/>
+	<SubTexture name="OGFlip M RIGHT0008" x="562" y="1165" width="542" height="547"/>
+	<SubTexture name="OGFlip M RIGHT0009" x="562" y="1165" width="542" height="547"/>
+	<SubTexture name="OGFlip M RIGHT0010" x="562" y="1165" width="542" height="547"/>
+	<SubTexture name="OGFlip M RIGHT0011" x="562" y="1165" width="542" height="547"/>
+	<SubTexture name="OGFlip M RIGHT0012" x="562" y="1165" width="542" height="547"/>
+	<SubTexture name="OGFlip M RIGHT0013" x="562" y="1165" width="542" height="547"/>
+	<SubTexture name="OGFlip M UP0000" x="1114" y="1165" width="664" height="580"/>
+	<SubTexture name="OGFlip M UP0001" x="1114" y="1165" width="664" height="580"/>
+	<SubTexture name="OGFlip M UP0002" x="1788" y="1165" width="664" height="580"/>
+	<SubTexture name="OGFlip M UP0003" x="2462" y="1165" width="664" height="580"/>
+	<SubTexture name="OGFlip M UP0004" x="2462" y="1165" width="664" height="580"/>
+	<SubTexture name="OGFlip M UP0005" x="2462" y="1165" width="664" height="580"/>
+	<SubTexture name="OGFlip M UP0006" x="2462" y="1165" width="664" height="580"/>
+	<SubTexture name="OGFlip M UP0007" x="2462" y="1165" width="664" height="580"/>
+	<SubTexture name="OGFlip M UP0008" x="2462" y="1165" width="664" height="580"/>
+	<SubTexture name="OGFlip M UP0009" x="2462" y="1165" width="664" height="580"/>
+	<SubTexture name="OGFlip M UP0010" x="2462" y="1165" width="664" height="580"/>
+	<SubTexture name="OGFlip M UP0011" x="2462" y="1165" width="664" height="580"/>
+	<SubTexture name="OGFlip M UP0012" x="2462" y="1165" width="664" height="580"/>
+	<SubTexture name="OGFlip M UP0013" x="2462" y="1165" width="664" height="580"/>
+</TextureAtlas>
