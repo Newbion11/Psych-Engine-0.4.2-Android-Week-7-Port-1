@@ -1,0 +1,44 @@
+{
+	"storyName": "Vs. Classic Flippy",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "alt",
+	"weekBefore": "week6",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"compass",
+			"flippy",
+			[
+				215,
+				255,
+				167
+			]
+		],
+		[
+			"assault",
+			"flippy",
+			[
+				215,
+				255,
+				167
+			]
+		],
+		[
+			"extinction",
+			"flippy",
+			[
+				215,
+				255,
+				167
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "OG Flippy"
+}

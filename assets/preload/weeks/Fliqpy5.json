@@ -1,0 +1,26 @@
+{
+	"storyName": "Operation: Tiger Bomb",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "kapow",
+	"weekBefore": "week6",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Kapow",
+			"kapow",
+			[
+				87,
+				102,
+				97
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Kapow Flippy"
+}
