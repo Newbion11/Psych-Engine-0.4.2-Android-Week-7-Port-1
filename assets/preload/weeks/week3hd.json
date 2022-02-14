@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Pico",
+			"pico",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Philly",
+			"pico",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Blammed",
+			"pico",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"storyName": "pico",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

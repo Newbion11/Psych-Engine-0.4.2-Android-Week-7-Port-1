@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Spookeez",
+			"spooky",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"South",
+			"spooky",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Monster",
+			"monster",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"storyName": "Spook Month",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

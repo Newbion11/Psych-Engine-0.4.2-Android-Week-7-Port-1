@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Cocoa",
+			"parents",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Eggnog",
+			"parents",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Winter-Horrorland",
+			"monster",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "christmas",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"parents-christmas",
+		"bf",
+		"gf"
+	],
+	"storyName": "christmas",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
