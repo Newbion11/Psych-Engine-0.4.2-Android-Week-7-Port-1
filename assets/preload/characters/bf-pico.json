@@ -1,128 +1,128 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				-60,
-				41
-			],
 			"loop": false,
-			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "Pico NOTE LEFT miss",
-			"indices": []
-		},
-		{
 			"offsets": [
-				62,
-				64
+				-13,
+				17
 			],
-			"loop": false,
 			"anim": "singLEFTmiss",
 			"fps": 24,
-			"name": "Pico Note Right Miss",
+			"name": "Miss Left",
 			"indices": []
 		},
 		{
-			"offsets": [
-				210,
-				-28
-			],
 			"loop": false,
+			"offsets": [
+				-36,
+				-63
+			],
 			"anim": "singDOWNmiss",
 			"fps": 24,
-			"name": "Pico Down Note MISS",
+			"name": "Miss Down",
 			"indices": []
 		},
 		{
-			"offsets": [
-				-19,
-				67
-			],
 			"loop": false,
+			"offsets": [
+				-48,
+				12
+			],
 			"anim": "singUPmiss",
 			"fps": 24,
-			"name": "pico Up note miss",
+			"name": "Miss Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				5
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Miss Right",
 			"indices": []
 		},
 		{
 			"offsets": [
-				0,
-				2
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "idle",
-			"loop": false,
-			"name": "Pico Idle0"
-		},
-		{
-			"offsets": [
-				-32,
-				-28
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singLEFT",
-			"loop": false,
-			"name": "Pico Right0"
-		},
-		{
-			"offsets": [
-				72,
-				-43
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singRIGHT",
-			"loop": false,
-			"name": "Pico Left0"
-		},
-		{
-			"offsets": [
-				-31,
-				-26
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singUP",
-			"loop": false,
-			"name": "Pico Up0"
-		},
-		{
-			"offsets": [
-				-24,
-				-175
+				-39,
+				-55
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singDOWN",
 			"loop": false,
-			"name": "Pico Down0"
+			"name": "BF NOTE DOWN0"
 		},
 		{
 			"offsets": [
-				34,
-				125
+				-31,
+				-11
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "shoot",
+			"anim": "singLEFT",
 			"loop": false,
-			"name": "Pico Shoot0"
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				-42,
+				58
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BF NOTE UP0"
+		},
+		{
+			"offsets": [
+				-70,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				-10,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "BF Pico"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "BF idle dance"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Pico",
+	"image": "characters/bfPico",
 	"position": [
 		0,
-		300
+		350
 	],
-	"healthicon": "pico",
-	"flip_x": false,
+	"healthicon": "bf",
+	"flip_x": true,
 	"healthbar_colors": [
-		183,
-		216,
-		85
+		49,
+		176,
+		209
 	],
 	"camera_position": [
 		0,

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "GF Dancing"
+		},
+		{
+			"offsets": [
+				-44,
+				-11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "laugh",
+			"loop": false,
+			"name": "GF Laugh"
+		},
+		{
+			"offsets": [
+				-49,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "sad",
+			"loop": false,
+			"name": "gf"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gfDate",
+	"position": [
+		0,
+		110
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
